@@ -42,9 +42,9 @@
     }
   },
   "captcha": {
-    "provider": "2captcha",
+    "provider": "self-hosted",
     "solverUrl": [
-      ""
+      "http://127.0.0.1:8000"
     ],
     "apiKey": ""
   },

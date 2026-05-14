@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node indexm.js"
+  },
+  "dependencies": {
+    "puppeteer": "latest",
+    "puppeteer-extra": "latest",
+    "puppeteer-extra-plugin-stealth": "latest"
+  }
+}

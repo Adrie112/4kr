@@ -2,9 +2,19 @@
   "defaultAccount": "adriel",
   "accounts": [
     {
+      "name": "anisa989",
+      "email": "anisdua588@gmail.com",
+      "address": "roots0f02e0c0e6da4c51b1664604::1220d5ad22c519120105e0fd8b8c50aa5a48c76e29e6c6768987cd7952c225246f51"
+    },
+    {
       "name": "adriel",
       "email": "mhmdadriel013@gmail.com",
       "address": "roots92d6a7c62eb8410c92c1ec4b::1220d5ad22c519120105e0fd8b8c50aa5a48c76e29e6c6768987cd7952c225246f51"
+    },
+    {
+      "name": "xenzz",
+      "email": "mulyonoternak14@gmail.com",
+      "address": "roots83d9e7888f734fc9994ddafb::1220d5ad22c519120105e0fd8b8c50aa5a48c76e29e6c6768987cd7952c225246f51"
     }
   ]
 }

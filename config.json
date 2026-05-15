@@ -34,7 +34,7 @@
     },
     "taker": {
       "minBps": 1,
-      "maxTakesPerCounterpartyPerWeek": 5,
+      "maxTakesPerCounterpartyPerWeek": 25,
       "balanceLockCooldownSeconds": 90,
       "orderBlacklistSeconds": 60,
       "maxDrainPerLoop": 1,
@@ -42,9 +42,9 @@
     }
   },
   "captcha": {
-    "provider": "self-hosted",
+    "provider": "2captcha",
     "solverUrl": [
-      "http://127.0.0.1:8000"
+      ""
     ],
     "apiKey": ""
   },
